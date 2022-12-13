@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/finap/taxidriver/BuildConfig.java
+ com.finap.taxidriver.BuildConfig

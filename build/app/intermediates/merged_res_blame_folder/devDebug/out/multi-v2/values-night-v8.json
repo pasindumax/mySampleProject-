@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Pasindu\\Documents\\jobtest\\Developer_Test2\\build\\app\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pasindu\\Documents\\jobtest\\Developer_Test2\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1003",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "661,1167"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,549",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "544,713"
+                    }
+                }
+            ]
+        }
+    ]
+}

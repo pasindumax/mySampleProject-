@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "53078111882",
+    "project_id": "finap-lmd",
+    "storage_bucket": "finap-lmd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53078111882:android:b2bcd4e4dd98506dc39f73",
+        "android_client_info": {
+          "package_name": "com.finap.taxidriver.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53078111882-hmq4s2325jdmpsba8op2g449qke9eksu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtRx17hqxFgpe6C4lKbF6oG_qsUd_Voc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53078111882-hmq4s2325jdmpsba8op2g449qke9eksu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53078111882-l5gbk29tgmqo24hq45e7ilpra7mfjo7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.finap.taxidriver.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

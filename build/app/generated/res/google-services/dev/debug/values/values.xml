@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">53078111882-hmq4s2325jdmpsba8op2g449qke9eksu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">53078111882</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAtRx17hqxFgpe6C4lKbF6oG_qsUd_Voc</string>
+    <string name="google_app_id" translatable="false">1:53078111882:android:b2bcd4e4dd98506dc39f73</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAtRx17hqxFgpe6C4lKbF6oG_qsUd_Voc</string>
+    <string name="google_storage_bucket" translatable="false">finap-lmd.appspot.com</string>
+    <string name="project_id" translatable="false">finap-lmd</string>
+</resources>
